@@ -1,0 +1,31 @@
+_repo: Two-sailor-lads-b-A-story-of-stirring-adventures-on-sea-and-land_71992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    - Gordon-Stables, W.
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+    wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
+description: ''
+gutenberg_issued: '2023-10-31'
+identifiers:
+  gutenberg: '71992'
+language: en
+pgterms:marc905: 20231022143913stables
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bJohn F. Shaw and Co., Ltd., $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Two sailor lads : $b A story of stirring adventures on sea and land'
+url: http://www.gutenberg.org/ebooks/71992
